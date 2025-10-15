@@ -58,12 +58,12 @@ Projeto de honeypot desenvolvido na nuvem Azure para atrair, capturar e analisar
 ### 🌎 Distribuição Geográfica
 
 **Países com Maior Volume:**
-- 🥇 **Ucrânia** - 1.525 ataques (60.9%)
+- 🥇 **Ucrânia** - 1.530 ataques (61.1%)
 - 🥈 **Coreia do Sul** - 677 ataques (27.0%)
-- 🥉 **Rússia** - 259 ataques (10.3%)
+- 🥉 **Rússia** - 242 ataques (9.7%)
 - 4️⃣ **França** - 18 ataques (0.7%)
 - 5️⃣ **Holanda** - 12 ataques (0.5%)
-> **Destaque:** Análise geográfica revelou que 98% dos ataques originaram-se de apenas 3 países, com a Ucrânia respondendo por 61% do volume total, indicando possível operação coordenada de bots.
+> **Destaque:** Análise geográfica revelou que 97.8% dos ataques originaram-se de apenas 3 países, com a Ucrânia respondendo por 61% do volume total, indicando possível operação coordenada de bots.
 ### 🔐 Padrões de Ataque
 
 **Usuários Mais Tentados:**
@@ -83,7 +83,7 @@ Projeto de honeypot desenvolvido na nuvem Azure para atrair, capturar e analisar
 ### 📈 Insights Obtidos
 
 - Ucrânia dominou com 61% de todos os ataques
-- Top 3 países concentram 98.2% dos ataques
+- Top 3 países concentram 97.8% dos ataques
 - Padrão geográfico claro: Leste Europeu + Ásia Oriental
 - Distribuição muito concentrada - típico de bots especializados
 
