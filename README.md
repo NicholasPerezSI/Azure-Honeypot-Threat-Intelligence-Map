@@ -2,7 +2,7 @@
 Projeto de honeypot desenvolvido na nuvem Azure para atrair, capturar e analisar tentativas de ataque cibernético em tempo real. A solução utiliza uma máquina virtual deliberadamente exposta na internet como isca, com um sistema de coleta e enriquecimento de dados que transforma logs brutos em inteligência acionável, visualizada através de um mapa de calor geográfico no Microsoft Sentinel.
 
 ## 📐 Arquitetura da Solução
-https://github.com/NicholasPerezSI/Azure-Honeypot-Threat-Intelligence-Map/blob/main/Arquitetura%20da%20Solu%C3%A7%C3%A3o.png?raw=true
+![Diagrama da Arquitetura do Honeypot](./Arquitetura%20da%20Solução.png)
 ## 🔧 Componentes e Tecnologias Utilizadas
 
 ### 🔹 Plataforma Azure
@@ -45,10 +45,10 @@ https://github.com/NicholasPerezSI/Azure-Honeypot-Threat-Intelligence-Map/blob/m
 
 ## Evolução do ataque em tempo real
 🔹 **Fase Inicial (1ª Hora):** 
-![](.hora01.png)
+![Mapa Primeira Hora](./hora01.png)
 
 🔹 **Cenário Completo (24 Horas):** 
-![](.hora24.png)
+![Mapa 24 Horas](./hora24.png)
 
 ## 📊 Métricas de Segurança Coletadas (24h)
 
