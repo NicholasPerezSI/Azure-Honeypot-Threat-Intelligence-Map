@@ -44,9 +44,11 @@ https://github.com/NicholasPerezSI/Azure-Honeypot-Threat-Intelligence-Map/blob/m
 - Implementação de mapa interativo com plotagem de ataques
 
 ## Evolução do ataque em tempo real
-🔹 **Fase Inicial (1ª Hora):** https://github.com/NicholasPerezSI/Azure-Honeypot-Threat-Intelligence-Map/blob/main/hora01.png?raw=true
+🔹 **Fase Inicial (1ª Hora):** 
+![](.hora01.png)
 
-🔹 **Cenário Completo (24 Horas):** https://github.com/NicholasPerezSI/Azure-Honeypot-Threat-Intelligence-Map/blob/main/hora24.png?raw=true
+🔹 **Cenário Completo (24 Horas):** 
+![](.hora24.png)
 
 ## 📊 Métricas de Segurança Coletadas (24h)
 
